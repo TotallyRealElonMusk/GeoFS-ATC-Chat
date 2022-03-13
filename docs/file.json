@@ -398,10 +398,10 @@
   "type": "airport"
 }, {
   "name": "statue of liberty",
-  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/statue_of_liberty.glb",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/statue_of_liberty2.glb",
    "credit": "From: byGravity Jack (https://sketchfab.com/3d-models/statue-of-liberty-84094e8d5e724b5c882cf576ca12e44e)",
   "position": [40.68992736745039, -74.04507689937424, 1],
   "rotation": [90, 0, 0],
-  "scale": [0.8,0.8,0.8],
+  "scale": [0.6,0.6,0.6],
   "type": "landmark"
 }]
