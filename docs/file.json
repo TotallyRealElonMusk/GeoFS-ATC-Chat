@@ -251,22 +251,6 @@
   "rotation": [90, 0, 0],
   "scale": [0.65, 0.65, 0.65],
   "type": "airport"
-},
-{
-  "name": "QE2(Carrie)",
-  "comment": "This is mostly a test, added to this json for ease of use",
-  "url": "https://www.geo-fs.com/backend/aircraft/repository/Flighter%20Jet_310810_2198/QE2model.glb",
-  "position": [50.76575873754467, -1.1927880445846175, 0],
-  "rotation": [0, 0, 0],
-  "scale": [1,1,1],
-  "type": "addon"
-}, {
-  "name": "ASOG",
-  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/asog.glb",
-  "position": [28.409661, -80.582244, 0],
-  "rotation": [0, 0, 0],
-  "scale": [1,1,1],
-  "type": "addon"
 },{
   "name": "hollywood sign",
   "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/hollywood_sign.glb",
